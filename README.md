@@ -13,9 +13,6 @@ A modern hiking and outdoor adventure web application that helps you discover an
 
 # 🛠️ Built With
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Maps**: Mapbox/Google Maps API
+
 
 **Happy Hiking!** 🏔️
